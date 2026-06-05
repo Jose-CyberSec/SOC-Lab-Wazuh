@@ -272,7 +272,7 @@ Wazuh successfully detected and logged all generated security events. Alerts wer
 
 ![Account Manipulation](screenshots/21-account-manipulation.png)
 
-![Administrator Group Change](screenshots/22-wazuh-administartor-group-change.png)
+![Administrator Group Change](screenshots/22-wazuh-administrator-group-change.png)
 
 ![User Account Deletion](screenshots/23-user-account-deletion-alert.png)
 
