@@ -14,6 +14,20 @@ The objective was to build a hands-on Security Operations Center (SOC) environme
 
 ---
 
+## Project Outcome
+
+Successfully deployed a functioning SIEM lab capable of:
+
+* Collecting Windows Security Events
+* Collecting Sysmon telemetry
+* Monitoring endpoint activity
+* Detecting account manipulation
+* Detecting failed authentication attempts
+* Supporting threat hunting investigations
+* Supporting incident response documentation
+
+---
+
 ## Objectives
 
 * Deploy a Linux-based Wazuh SIEM platform
@@ -331,6 +345,13 @@ Key takeaways include:
 
 ---
 
+## Additional Documentation
+
+* [Incident Response Report](docs/incident-response-report.md)
+* [Evidence Summary](artifacts/evidence-summary.md)
+
+---
+
 ## Future Enhancements
 
 * Active Directory Integration
@@ -346,13 +367,11 @@ Key takeaways include:
 
 ## Author
 
-## Author
-
 **Jose Garcia**
 
 U.S. Marine Corps Veteran | Cybersecurity Student | SOC Analyst Candidate
 
 ### Connect With Me
 
-- GitHub: https://github.com/9JoseG3
-- LinkedIn: https://www.linkedin.com/in/jose-cyber/
+* GitHub: https://github.com/9JoseG3
+* LinkedIn: https://www.linkedin.com/in/jose-cyber/
