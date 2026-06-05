@@ -346,8 +346,13 @@ Key takeaways include:
 
 ## Author
 
+## Author
+
 **Jose Garcia**
 
-U.S. Marine Corps Veteran
-Cybersecurity Student – Pace University
-SOC Analyst Candidate
+U.S. Marine Corps Veteran | Cybersecurity Student | SOC Analyst Candidate
+
+### Connect With Me
+
+- GitHub: https://github.com/9JoseG3
+- LinkedIn: https://www.linkedin.com/in/jose-cyber/
